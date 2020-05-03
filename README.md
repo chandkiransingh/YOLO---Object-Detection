@@ -5,7 +5,7 @@ Dependencies
 opencv
 numpy
 
-$pip install numpy opencv-python
+$pip3 install numpy opencv-python
 
 Weights file - 
 Link - https://pjreddie.com/media/files/yolov3.weights
