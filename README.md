@@ -10,7 +10,7 @@ $pip install numpy opencv-python
 Weights file - 
 Link - https://pjreddie.com/media/files/yolov3.weights
 					
-					OR
+					# OR
 
 $ wget https://pjreddie.com/media/files/yolov3.weights
 
