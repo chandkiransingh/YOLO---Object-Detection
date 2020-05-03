@@ -16,4 +16,4 @@ $ wget https://pjreddie.com/media/files/yolov3.weights
 
 
 Execute - 
-$ python yolo_opencv.py --image cat.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt
+$ python3 yolo_opencv.py --image cat.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt
